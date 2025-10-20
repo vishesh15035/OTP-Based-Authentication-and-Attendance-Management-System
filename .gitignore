@@ -1,0 +1,11 @@
+# Build directories
+/build/
+ /bin/
+ /CMakeFiles/
+ CMakeCache.txt
+ *.cmake
+
+# Qt / macOS specific
+ *.app
+ *.user
+ .DS_Store
