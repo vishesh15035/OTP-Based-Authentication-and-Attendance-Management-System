@@ -33,7 +33,7 @@ Developed in **C++ (Qt5/Qt6)** using **CMake**.
 
 ### Build Steps
 ```bash
-git clone https://github.com/<your-username>/OTP-Based-Authentication-and-Attendance-Management-System.git
+git clone https://github.com/vishesh15035/OTP-Based-Authentication-and-Attendance-Management-System.git
 cd OTP-Based-Authentication-and-Attendance-Management-System
 mkdir build && cd build
 cmake ..
